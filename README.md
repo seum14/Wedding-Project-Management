@@ -76,3 +76,6 @@ Contributions are welcome! If you have suggestions for improving the project pla
 ---
 
 This Wedding Planner Project aims to provide a detailed and organized approach to managing a wedding, ensuring every detail is accounted for and executed flawlessly. Enjoy exploring the project and feel free to use it as a template for your own wedding planning needs!
+---
+
+Author: Khalid Hasan Seum
