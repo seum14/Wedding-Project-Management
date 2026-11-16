@@ -31,4 +31,4 @@ The case study demonstrates requirements breakdown, dependency management, sched
 
 ---
 
-[View my portfolio](https://github.com/seum14) · [Connect on LinkedIn](https://www.linkedin.com/in/seum14/)
+[View my portfolio](https://github.com/seum14)
